@@ -1,2 +1,2 @@
-# neural-scratch
-Straight outta Neural Network
+# Straight outta Neural Network 🧪
+
